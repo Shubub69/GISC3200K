@@ -8,7 +8,7 @@ Tic-tac-toe originated from the ancient Roman Empire around the first century BC
 
 THE GAME
  
-Tic-tac-toe is a two player game that takes turn marking spaces on a 3 by 3 grid, and the objective of the game is to place three connecting marks in a horizontal, vertical, or diagonal row. Once the game has come to an end the window will close out.
+Tic-tac-toe is a two player game that takes turn marking spaces on a 3 by 3 grid, and the objective of the game is to place three connecting marks in a horizontal, vertical, or diagonal row causing the game to come to an end or draw.
 
 
 Why did i do it 

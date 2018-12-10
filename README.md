@@ -13,4 +13,4 @@ Tic-tac-toe is a two player game that takes turn marking spaces on a 3 by 3 grid
 
 Why did i do it 
 
-Tic-Tac-Toe was one of the first games to go digital along woth pong and a few others it was iconic and that is why did this game.
+Tic-Tac-Toe was one of the first games to go digital along with pong and a few others it was iconic and that is why did this game.

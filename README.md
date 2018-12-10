@@ -11,6 +11,6 @@ THE GAME
 Tic-tac-toe is a two player game that takes turn marking spaces on a 3 by 3 grid, and the objective of the game is to place three connecting marks in a horizontal, vertical, or diagonal row. Once the game has come to an end the window will close out.
 
 
-Why i did i do it 
+Why did i do it 
 
 Tic-Tac-Toe was one of the first games to go digital along woth pong and a few others it was iconic and that is why did this game.
